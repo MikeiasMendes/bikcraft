@@ -5,5 +5,9 @@
 @import url("./global/header.css");
 /*Home*/
 @import url("./home/introducao.css");
+
 /*Utilidades*/
 @import url("./utilidades/componentes.css");
+
+/*Bicicletas*/
+@import url("./bicicletas/bicicletas-listas.css");
